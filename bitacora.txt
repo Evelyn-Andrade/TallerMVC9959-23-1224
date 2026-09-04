@@ -1,0 +1,17 @@
+commit 9e7869eef78641fb39e47457526750842dd417c5
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Sep 3 19:06:27 2026 -0600
+
+    Subiendo Ejecucion
+
+commit 4b65800086e2c5b677e9cda51adac1ffc24c5d33
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Sep 3 18:54:37 2026 -0600
+
+    Enviando Bibliotecas
+
+commit 01a4a4d4b326c7e255683e3265bc6b82b0efd187
+Author: Evelyn Andrade <esofiaand04@gmail.com>
+Date:   Thu Sep 3 18:47:50 2026 -0600
+
+    Initial commit
