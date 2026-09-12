@@ -1,0 +1,47 @@
+commit ab62ea07be2ec4f79a225f0e622ac780e2e973d3
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Fri Sep 11 23:53:33 2026 -0600
+
+    Agregando el control de usuario Combobox
+
+commit ac9dd869c3f51344003dee3e21d6efb766ab9e8c
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Fri Sep 11 22:25:48 2026 -0600
+
+    agregando Capa Vista
+
+commit ba028ab172af58a64ec480202dc193865efca68a
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Fri Sep 11 20:42:20 2026 -0600
+
+    Agregando Capa Controlador
+
+commit f820981d9f49754f8582e09973ed29cad7eb45ae
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Fri Sep 11 19:56:10 2026 -0600
+
+    Agregando capa Modelo
+
+commit 5d5b2a4d89992a8cf76e58031e58d06c4afbd23e
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Sep 3 19:16:27 2026 -0600
+
+    Enviando bitacora
+
+commit 9e7869eef78641fb39e47457526750842dd417c5
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Sep 3 19:06:27 2026 -0600
+
+    Subiendo Ejecucion
+
+commit 4b65800086e2c5b677e9cda51adac1ffc24c5d33
+Author: Evelyn Andrade <eandradel2@miumg.edu.gt>
+Date:   Thu Sep 3 18:54:37 2026 -0600
+
+    Enviando Bibliotecas
+
+commit 01a4a4d4b326c7e255683e3265bc6b82b0efd187
+Author: Evelyn Andrade <esofiaand04@gmail.com>
+Date:   Thu Sep 3 18:47:50 2026 -0600
+
+    Initial commit
