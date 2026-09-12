@@ -20,6 +20,7 @@ namespace CapaVista_prototipoumg2k26.Formas
             InitializeComponent();
             panIngresoDatos.Enabled = false;
             listaVideos();
+            CargarDatos();
         }
 
         private void FrmVideo_Load(object sender, EventArgs e)
@@ -130,6 +131,10 @@ namespace CapaVista_prototipoumg2k26.Formas
                 listaVideos();
             }
             else MessageBox.Show("Seleccione una fila");
+        }
+        void CargarDatos()
+        {
+            combol1.llenarCombo("video", "id_video", "titulo");
         }
     }
 }
