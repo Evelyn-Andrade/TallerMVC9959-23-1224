@@ -29,7 +29,7 @@ namespace CapaModelo_prototipoumg2k26.Repositorios
             var _parametros = new List<OdbcParameter>();
             _parametros.Add(new OdbcParameter("p_titulo", entidad.Titulo));
             _parametros.Add(new OdbcParameter("p_genero", entidad.Genero));
-            _parametros.Add(new OdbcParameter("p_precio_renta", entidad.PrecioRenta));
+            _parametros.Add(new OdbcParameter("p_precio_renta", (double)entidad.PrecioRenta));
             _parametros.Add(new OdbcParameter("p_stock", entidad.Stock));
             _parametros.Add(new OdbcParameter("p_estado", entidad.Estado));
             _parametros.Add(new OdbcParameter("p_codigo", entidad.Codigo));
@@ -46,7 +46,7 @@ namespace CapaModelo_prototipoumg2k26.Repositorios
             var _parametros = new List<OdbcParameter>();
             _parametros.Add(new OdbcParameter("p_titulo", entidad.Titulo));
             _parametros.Add(new OdbcParameter("p_genero", entidad.Genero));
-            _parametros.Add(new OdbcParameter("p_precio_renta", entidad.PrecioRenta));
+            _parametros.Add(new OdbcParameter("p_precio_renta", (double)entidad.PrecioRenta));
             _parametros.Add(new OdbcParameter("p_stock", entidad.Stock));
             _parametros.Add(new OdbcParameter("p_estado", entidad.Estado));
             _parametros.Add(new OdbcParameter("p_codigo", entidad.Codigo));
